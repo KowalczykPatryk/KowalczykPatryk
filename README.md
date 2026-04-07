@@ -1,5 +1,8 @@
 ### Personal Projects:  
 
+### 2023
+- https://github.com/code50/149658230
+
 ### 2024  
 - https://github.com/KowalczykPatryk/QT-Flashcards-Desktop-App
 - https://github.com/KowalczykPatryk/QT-LLM-Language-Learning-App
