@@ -1,3 +1,11 @@
+# Hello and Welcome
+I'm 3rd year computer science student.
+
+### Programming Languages:
+- Python
+- C/C++
+- Java
+
 ### Personal Projects:  
 
 ### 2023
