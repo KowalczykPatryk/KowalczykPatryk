@@ -36,3 +36,6 @@ I'm 3rd year computer science student.
 ### 2025
 - https://github.com/KowalczykPatryk/Chatterly
 - https://github.com/Wisznior/NBA_predictions
+
+### Contact:
+patrykkowalczyk565@gmail.com
