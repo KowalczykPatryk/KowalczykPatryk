@@ -1,16 +1,27 @@
-## Hi there 👋
+### Personal Projects:  
 
-<!--
-**KowalczykPatryk/KowalczykPatryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2024  
+- https://github.com/KowalczykPatryk/QT-Flashcards-Desktop-App
+- https://github.com/KowalczykPatryk/QT-LLM-Language-Learning-App
 
-Here are some ideas to get you started:
+### 2025
+- https://github.com/KowalczykPatryk/Simple-Paint
+- https://github.com/KowalczykPatryk/Terminal-Flight-Simulator
+- https://github.com/KowalczykPatryk/Education-Database-System
+- https://github.com/KowalczykPatryk/Banking-System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2026
+- https://github.com/KowalczykPatryk/CheesedOff
+- https://github.com/KowalczykPatryk/Przychodnia
+- https://github.com/KowalczykPatryk/MagicMethods
+- https://github.com/KowalczykPatryk/FODS-PROJECT
+- https://github.com/KowalczykPatryk/Portfolio
+- https://github.com/KowalczykPatryk/Bedtime-Video-Stories-Generator
+- https://github.com/KowalczykPatryk/6.S191IntroductionToDeepLearningLabsEx
+- https://github.com/KowalczykPatryk/Checkers
+
+### Collaborative Projects:  
+
+### 2025
+- https://github.com/KowalczykPatryk/Chatterly
+- https://github.com/Wisznior/NBA_predictions
