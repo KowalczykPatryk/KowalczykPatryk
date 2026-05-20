@@ -39,3 +39,9 @@ I'm 3rd year computer science student.
 
 ### Contact:
 patrykkowalczyk565@gmail.com
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cpp,django,flask,js,ts,git,github,linux,ubuntu,bash,vscode,tailwind,materialui,md,html,css,react,vite,nodejs,java,postgres,sqlite,mongodb,php,qt,regex,svg,cmake,maven,selenium" />
+  </a>
+</p>
