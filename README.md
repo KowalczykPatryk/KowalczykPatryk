@@ -30,6 +30,7 @@ I'm 3rd year computer science student.
 - https://github.com/KowalczykPatryk/Bedtime-Video-Stories-Generator
 - https://github.com/KowalczykPatryk/6.S191IntroductionToDeepLearningLabsEx
 - https://github.com/KowalczykPatryk/Checkers
+- https://github.com/KowalczykPatryk/Shermes
 
 ### Collaborative Projects:  
 
