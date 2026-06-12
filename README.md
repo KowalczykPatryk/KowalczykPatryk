@@ -9,34 +9,39 @@ I'm 3rd year computer science student.
 ### Personal Projects:  
 
 ### 2023
-- https://github.com/code50/149658230
+- [CS50](https://github.com/code50/149658230)
 
 ### 2024  
-- https://github.com/KowalczykPatryk/QT-Flashcards-Desktop-App
-- https://github.com/KowalczykPatryk/QT-LLM-Language-Learning-App
+- [QT-Flashcards-Desktop-App](https://github.com/KowalczykPatryk/QT-Flashcards-Desktop-App)
+- [QT-LLM-Language-Learning-App](https://github.com/KowalczykPatryk/QT-LLM-Language-Learning-App)
 
 ### 2025
-- https://github.com/KowalczykPatryk/Simple-Paint
-- https://github.com/KowalczykPatryk/Terminal-Flight-Simulator
-- https://github.com/KowalczykPatryk/Education-Database-System
-- https://github.com/KowalczykPatryk/Banking-System
+- [Simple-Paint](https://github.com/KowalczykPatryk/Simple-Paint)
+- [Terminal-Flight-Simulator](https://github.com/KowalczykPatryk/Terminal-Flight-Simulator)
+- [Education-Database-System](https://github.com/KowalczykPatryk/Education-Database-System)
+- [Banking-System](https://github.com/KowalczykPatryk/Banking-System)
 
 ### 2026
-- https://github.com/KowalczykPatryk/CheesedOff
-- https://github.com/KowalczykPatryk/Przychodnia
-- https://github.com/KowalczykPatryk/MagicMethods
-- https://github.com/KowalczykPatryk/FODS-PROJECT
-- https://github.com/KowalczykPatryk/Portfolio
-- https://github.com/KowalczykPatryk/Bedtime-Video-Stories-Generator
-- https://github.com/KowalczykPatryk/6.S191IntroductionToDeepLearningLabsEx
-- https://github.com/KowalczykPatryk/Checkers
-- https://github.com/KowalczykPatryk/Shermes
+- [CheesedOff](https://github.com/KowalczykPatryk/CheesedOff)
+- [Przychodnia](https://github.com/KowalczykPatryk/Przychodnia)
+- [MagicMethods](https://github.com/KowalczykPatryk/MagicMethods)
+- [FODS-PROJECT](https://github.com/KowalczykPatryk/FODS-PROJECT)
+- [Portfolio](https://github.com/KowalczykPatryk/Portfolio)
+- [Bedtime-Video-Stories-Generator](https://github.com/KowalczykPatryk/Bedtime-Video-Stories-Generator)
+- [6.S191IntroductionToDeepLearningLabsEx](https://github.com/KowalczykPatryk/6.S191IntroductionToDeepLearningLabsEx)
+- [Checkers](https://github.com/KowalczykPatryk/Checkers)
+- [Shermes](https://github.com/KowalczykPatryk/Shermes)
 
 ### Collaborative Projects:  
 
 ### 2025
-- https://github.com/KowalczykPatryk/Chatterly
-- https://github.com/Wisznior/NBA_predictions
+- [Chatterly](https://github.com/KowalczykPatryk/Chatterly)
+- [NBA_predictions](https://github.com/Wisznior/NBA_predictions)
+
+### 2026
+- [ActivationFunctions](https://github.com/KowalczykPatryk/ActivationFunctions)
+- [Embedded-Systems-Course](https://github.com/lisciu24/Embedded-Systems-Course)
+- [warcabyAI](https://github.com/warcabyAI/warcabyAI)
 
 ### Contact:
 patrykkowalczyk565@gmail.com
