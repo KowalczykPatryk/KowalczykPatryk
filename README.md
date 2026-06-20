@@ -1,7 +1,7 @@
 # Hello and Welcome
 I'm 3rd year computer science student.
 
-### Programming Languages:
+### Main Programming Languages:
 - Python
 - C/C++
 - Java
