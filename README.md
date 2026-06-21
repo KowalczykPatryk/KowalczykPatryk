@@ -42,6 +42,7 @@ I'm 3rd year computer science student.
 - [ActivationFunctions](https://github.com/KowalczykPatryk/ActivationFunctions)
 - [Embedded-Systems-Course](https://github.com/lisciu24/Embedded-Systems-Course)
 - [warcabyAI](https://github.com/warcabyAI/warcabyAI)
+- [social-media-engagement-prediction](https://github.com/xalixja/social-media-engagement-prediction)
 
 ### Contact:
 patrykkowalczyk565@gmail.com
